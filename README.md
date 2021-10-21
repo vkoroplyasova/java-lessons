@@ -18,7 +18,7 @@ Student projects for Java courses
         
 В каждом таком классе должен быть метод *main* - точка входа и основная логика приложения.
 Остальная структура в пакетах* - на усмотрение разработчика
-- После выполнения задания выполнить [pull request](https://github.com/0x100/java-lessons/compare), **ревьюерами кода выбрать**:
+- После выполнения задания выполнить [pull request](https://github.com/rnemykin/java-lessons/compare), **ревьюерами кода выбрать**:
     - [rnemykin](https://github.com/rnemykin)
 
 # Варианты
